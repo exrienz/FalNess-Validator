@@ -5,7 +5,7 @@ import shutil
 
 # Instructions
 message = """
-:::: Falcon & Nessus Finding Validator by Muzaffar Mohamed for Paynet ::::
+:::: Falcon & Nessus Finding Validator by Exrienz ::::
 
 How to use?
 1. Retrieve the Nessus report, ensuring it contains only the CVE and Host columns, and store the files in the "nessus" directory.
